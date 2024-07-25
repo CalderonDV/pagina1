@@ -7,9 +7,9 @@
     <title>Login</title>
  
     <!-- CSS -->
-    <link rel="stylesheet" href="css/reset.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/styles.css"> 
+    <link rel="stylesheet" href="/reset.css">
+    <link rel="stylesheet" href="/animate.css">
+    <link rel="stylesheet" href="/styles.css"> 
 </head>
 <body>
     <div id="container">
@@ -24,7 +24,7 @@
             <div id="lower">
                 <input type="checkbox"><label class="check" for="checkbox">Conservar mi sesión iniciada marque la casilla</label>
                 <!-- Submit Button -->
-                <input type="submit" value="Login">
+                <input type="submit" value="Iniciar sesión">
             </div>
         </form>       
     </div>
